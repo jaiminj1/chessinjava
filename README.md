@@ -1,7 +1,8 @@
 # chessinjava
 Chess created in Java
 
-Created in about 3 weeks using very basic repetitive logic. I'm sure it has some bugs I've missed.
+High school class project. 
+Timeline: 3 weeks.
 
 **Features:**
 * Prevents illegal moves 
